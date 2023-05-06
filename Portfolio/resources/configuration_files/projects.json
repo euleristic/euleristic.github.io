@@ -1,0 +1,20 @@
+[
+  {
+    "_URL_TEMPLATE_": "https://github.com/euleristic/euleristic.github.io",
+    "_TITLE_TEMPLATE_": "Portfolio Generator",
+    "_DESCRIPTION_TEMPLATE_": "A program which assembles a file according to a set of rules described by JSON configuration files and template files. This program was executed to construct the very page you are viewing. It is mostly a for-fun project, but does have the benefit of simplifying the addition of new projects to my portfolio and also providing a stick with which to touch HTML.",
+    "_IMAGE_TEMPLATE_": "Portfolio/resources/images/recursion.png"
+  },
+  {
+    "_URL_TEMPLATE_": "https://github.com/euleristic/euleristic_json",
+    "_TITLE_TEMPLATE_": "Euleristic JSON",
+    "_DESCRIPTION_TEMPLATE_": "A tool for reading, parsing, formatting and writing JSON with modern C++. It is quite customizable, with template arguments specifying with what integral, floating point and string types to store the different JSON value types. Obviously, you should probably prefer an established tool over this one, but it was a fun challenge for me and I think it ended up quite nice! I will definetely use this in my own projects and I might keep updating it every now and then.",
+    "_IMAGE_TEMPLATE_": "Portfolio/resources/images/json.png"
+  },
+  {
+    "_URL_TEMPLATE_": "https://github.com/euleristic/Planet",
+    "_TITLE_TEMPLATE_": "Planet",
+    "_DESCRIPTION_TEMPLATE_": "A multithreaded A* implementation for a dynamically constructed convex polygon world, using SDL2 and modern C++. This is essentially demonstrating a possible path finding for the controls you may find RTS or MOBA games, where you order units to move to a specific location with a mouse click. It's fun to play around with this example, which I hope you may find as well! The threading did not aide performance much, but became a novel and educational challenge.",
+    "_IMAGE_TEMPLATE_": "Portfolio/resources/images/planet.png"
+  }
+]

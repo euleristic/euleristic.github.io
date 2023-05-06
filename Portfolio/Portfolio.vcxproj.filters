@@ -15,6 +15,42 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="index.html" />
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\configuration_files\header.html">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\configuration_files\layout.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\configuration_files\projects.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\configuration_files\about_me.html">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\configuration_files\project_template.html">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\configuration_files\footer_template.html">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\configuration_files\projects_header.html">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\configuration_files\info.json">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\configuration_files\footer_header.html">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="euleristic_json.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Header",
+    "template": "header.html",
+    "specializer": null
+  },
+  {
+    "name": "About Me",
+    "template": "about_me.html",
+    "specializer": null
+  },
+  {
+    "name": "Projects Header",
+    "template": "projects_header.html",
+    "specializer":  null
+  },
+  {
+    "name": "Project List",
+    "template": "project_template.html",
+    "specializer": "projects.json"
+  },
+  {
+    "name": "Footer Header",
+    "template": "footer_header.html",
+    "specializer": null
+  },
+  {
+    "name": "Info List",
+    "template": "footer_template.html",
+    "specializer": "info.json"
+  }
+]

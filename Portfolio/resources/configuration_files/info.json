@@ -1,0 +1,17 @@
+[
+  {
+    "_FIELD_TEMPLATE_": "Github",
+    "_URL_TEMPLATE_": "https://github.com/euleristic",
+    "_VALUE_TEMPLATE_": "https://github.com/euleristic"
+  },
+  {
+    "_FIELD_TEMPLATE_": "LinkedIn",
+    "_URL_TEMPLATE_": "https://www.linkedin.com/in/valter-ottenvang-b93a32169/",
+    "_VALUE_TEMPLATE_": "https://www.linkedin.com/in/valter-ottenvang-b93a32169/"
+  },
+  {
+    "_FIELD_TEMPLATE_": "E-mail",
+    "_URL_TEMPLATE_": "mailto:valter.ottenvang@gmail.com",
+    "_VALUE_TEMPLATE_": "valter.ottenvang@gmail.com"
+  }
+]
