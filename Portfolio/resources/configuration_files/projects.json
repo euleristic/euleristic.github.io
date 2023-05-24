@@ -1,6 +1,6 @@
 [
   {
-    "_URL_TEMPLATE_": "https://github.com/euleristic/gravity_evolution",
+    "_URL_TEMPLATE_": "https://github.com/euleristic/gravity-evolution",
     "_TITLE_TEMPLATE_": "Gravity Evolution",
     "_DESCRIPTION_TEMPLATE_": "A high performance simulation of a 3D, Newton-gravitational system of stars using threading, OpenGL and modern C++. It exhibits some interesting behavior, such as the center getting more massive over time. It, however, does not flatten. This is due to the lack of collision resolution, which wasn't quite right for this simulation. Very satisfying to just turn on and watch!",
     "_IMAGE_TEMPLATE_": "Portfolio/resources/images/stars.png"
