@@ -1,4 +1,11 @@
 [
+
+  {
+    "_URL_TEMPLATE_": "https://github.com/euleristic/interactive-newtons-fractal",
+    "_TITLE_TEMPLATE_": "Interactive Newton's Fractal",
+    "_DESCRIPTION_TEMPLATE_": "A Newton's Fractal drawer, inspired by one of Youtube's 3Blue1Brown, <a href=\"https://www.youtube.com/watch?v=-RdOwhmqP5s\">here</a>! The fractal is calculated and drawn dynamically on the GPU through OpenGL, for the polynomial of a set of zeros chosen by the user. Making OpenGL work for you in these situations is non-trivial, so it was a fun challange!",
+    "_IMAGE_TEMPLATE_": "Portfolio/resources/images/fractal.png"
+  },
   {
     "_URL_TEMPLATE_": "https://github.com/euleristic/gravity-evolution",
     "_TITLE_TEMPLATE_": "Gravity Evolution",
