@@ -1,5 +1,10 @@
 [
-
+  {
+    "_URL_TEMPLATE_": "https://github.com/euleristic/Five-in-a-Row",
+    "_TITLE_TEMPLATE_": "Five in a Row",
+    "_DESCRIPTION_TEMPLATE_": "A Five-in-a-Row game with AI. The AI implements a minimax-search of the game tree, with alpha-beta pruning and other optimizations. It runs fast, and it's really difficult to beat. The repository also contains a unit tests project which was used throughout development and provides confidence that the functionality is as intended.",
+    "_IMAGE_TEMPLATE_": "Portfolio/resources/images/five-in-a-row.png"
+  },
   {
     "_URL_TEMPLATE_": "https://github.com/euleristic/interactive-newtons-fractal",
     "_TITLE_TEMPLATE_": "Interactive Newton's Fractal",
